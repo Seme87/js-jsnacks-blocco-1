@@ -7,5 +7,5 @@ if(firstWord.length < secondtWord.length ){
 }else if (firstWord.length > secondtWord.length) {
     console.log(secondtWord)
     console.log(firstWord)
-}
+}else("Le due parole sono uguali")
 
